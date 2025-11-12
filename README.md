@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Aravind 👋
+
+# I am a User Researcher and Engineer building tools and processes for the new age of AI powered applications.
+
+# Check out my guides below
 
 <!--
 **aravindbharathy/aravindbharathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
