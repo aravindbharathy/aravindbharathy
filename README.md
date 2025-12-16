@@ -12,7 +12,7 @@ In several areas of my life, I consider myself a deep generalist. My super power
 
 ## Check out my free AI Development/Edit friendly Portfolio/Personal website template below. 
 
-###Created with a comprehensive documentation centeric approach that lets coding agents understand the codebase.
+### Created with a comprehensive documentation centeric approach that lets coding agents understand the codebase.
 ### [AI Development friendly Portfolio/Personal Website](https://github.com/aravindbharathy/personal-portfolio)
 
 
