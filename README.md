@@ -10,8 +10,9 @@ In several areas of my life, I consider myself a deep generalist. My super power
 
 ### [Comprehensive guide for AI Evals for PMs and UXers](https://aravindbharathy.com/guidebooks/ai-quality-evals-for-product-builders-part-1-understanding-the-practice-of-ai-evals)
 
-## Check out my free AI Development/Edit friendly Portfolio/Personal website template below. Created with a comprehensive documentation centeric approach that lets coding agents understand the codebase.
+## Check out my free AI Development/Edit friendly Portfolio/Personal website template below. 
 
+###Created with a comprehensive documentation centeric approach that lets coding agents understand the codebase.
 ### [AI Development friendly Portfolio/Personal Website](https://github.com/aravindbharathy/personal-portfolio)
 
 
