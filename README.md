@@ -1,6 +1,6 @@
 # Hi, I am Aravind 👋
 
-## I am a User Researcher and Engineer building tools and processes for the new age of AI powered applications.
+## A User Researcher and Engineer building tools and processes for the new age of AI powered applications.
 
 I'm an experienced industry researcher with background in Human-Computer Interaction and Computer Science. I specialize in building highly technical enterprise grade products.
 
@@ -8,7 +8,7 @@ In several areas of my life, I consider myself a deep generalist. My super power
 
 ## Check out my recent articles below
 
-### [Comprehensive guide for AI Evals for PMs and UXers](https://aravindbharathy.com/guidebooks/ai-quality-evals-for-product-builders-part-1-understanding-the-practice-of-ai-evals))
+### [Comprehensive guide for AI Evals for PMs and UXers](https://aravindbharathy.com/guidebooks/ai-quality-evals-for-product-builders-part-1-understanding-the-practice-of-ai-evals)
 
 <!--
 **aravindbharathy/aravindbharathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
